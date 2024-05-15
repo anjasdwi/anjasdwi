@@ -35,16 +35,16 @@
  <a href="https://anjasdwi.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-56a035?style=for-the-badge&logo=vercel&logoColor=white" alt="www.anjasdwi.vercel.app" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1084db?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="https://www.linkedin.com/in/anjas-dwi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1084db?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
- <a href="https://twitter.com/_alsiam" target="_blank">
+ <a href="https://twitter.com/clorotlegi" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-56a035?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
+ <a href="https://instagram.com/dwianjas" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1084db?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
+ <a href="https://www.facebook.com/anjasdw1" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-56a035?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
