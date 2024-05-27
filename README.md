@@ -58,7 +58,12 @@
 
  <p align="center">
    <samp>
-   My journey started in 2018, I have an interest and curiosity about frontend, user interface design, application behavior and interactions. I started to challenge myself to focus and develop my potential in frontend development especially on web-based and mobile.
+   Hi!, I'm a digital technology enthusiast who has an interest and curiosity about frontend technology, user interface design, application performance and behavior. Still focus and develop my potential, especially web-based and mobile technology.
+   </samp>
+   <br/>
+   <br/>
+   <samp>
+In the technology sector, I've experienced 2+ years in Web development and 3+ years in Mobile development. Currently, I'm focusing on iOS technology for mobile applications. Still learning, expanding, and improving the knowledge about mobile technology either native or hybrid.
    </samp>
  </p>
  <p align="center"> ❤️ </br></br>
